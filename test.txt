@@ -1,0 +1,6 @@
+7-1
+
+var a = 2+2;
+while (True) {
+	var b = a + 1;
+}
